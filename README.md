@@ -1,5 +1,5 @@
-# RxSwift
-> 비동기적으로 생기는 데이터를 completion과 같은 클로저가 아닌, (Observable이라는 클래스로 감싸서)리턴값으로 전달하기 위한 유틸리티
+# RxSwift 간단 정리
+> RxSwift? 비동기적으로 생기는 데이터를 completion과 같은 클로저가 아닌, (Observable이라는 클래스로 감싸서)리턴값으로 전달하기 위한 유틸리티
 
 ## Observable 생명주기
 
