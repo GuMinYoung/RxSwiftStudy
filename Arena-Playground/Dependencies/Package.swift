@@ -28,7 +28,7 @@ let package = Package(
 )
 
 package.dependencies = [
-    .package(name: "RxSwift", url: "https://github.com/ReactiveX/RxSwift", from: "6.5.0")
+    .package(url: "https://github.com/ReactiveX/RxSwift", from: "6.5.0")
 ]
 package.targets = [
     .target(name: "Dependencies",
